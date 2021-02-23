@@ -146,7 +146,7 @@
 }
 
 .u-section-2 .u-list-1 {
-  min-height: 506px;
+  min-height: 532px;
   grid-template-columns: calc(33.3333% - 13px) calc(33.3333% - 13px) calc(33.3333% - 13px);
   grid-gap: 20px 20px;
   width: 1140px;
@@ -158,7 +158,7 @@
 }
 
 .u-section-2 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 30px 12px;
 }
 
 .u-section-2 .u-image-1 {
@@ -177,13 +177,13 @@
 
 .u-section-2 .u-btn-1 {
   border-style: none none solid;
-  margin: 56px auto 0 20px;
+  margin: 30px auto 0 14px;
   padding: 0;
 }
 
 .u-section-2 .u-btn-2 {
   border-style: none none solid;
-  margin: -26px auto 0 92px;
+  margin: 4px auto 0 14px;
   padding: 0;
 }
 
@@ -192,7 +192,7 @@
 }
 
 .u-section-2 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 30px 12px;
 }
 
 .u-section-2 .u-image-2 {
@@ -211,13 +211,13 @@
 
 .u-section-2 .u-btn-3 {
   border-style: none none solid;
-  margin: 56px auto 0 20px;
+  margin: 30px auto 0 14px;
   padding: 0;
 }
 
 .u-section-2 .u-btn-4 {
   border-style: none none solid;
-  margin: -26px auto 0 92px;
+  margin: 4px auto 0 14px;
   padding: 0;
 }
 
@@ -226,7 +226,7 @@
 }
 
 .u-section-2 .u-container-layout-3 {
-  padding: 30px;
+  padding: 30px 30px 12px;
 }
 
 .u-section-2 .u-image-3 {
@@ -245,23 +245,23 @@
 
 .u-section-2 .u-btn-5 {
   border-style: none none solid;
-  margin: 56px auto 0 20px;
+  margin: 30px auto 0 14px;
   padding: 0;
 }
 
 .u-section-2 .u-btn-6 {
   border-style: none none solid;
-  margin: -26px auto 0 92px;
+  margin: 4px auto 0 14px;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 477px;
+    min-height: 473px;
   }
 
   .u-section-2 .u-list-1 {
-    min-height: 417px;
+    min-height: 439px;
     grid-template-columns: repeat(3, calc(33.333333333333336% - 13px));
     height: auto;
     width: 940px;
@@ -328,11 +328,11 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1018px;
+    min-height: 1043px;
   }
 
   .u-section-2 .u-list-1 {
-    min-height: 958px;
+    min-height: 1009px;
     grid-template-columns: repeat(2, calc(((100% - 720px) / 2)  + 350px));
     width: 720px;
   }
